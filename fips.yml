@@ -1,0 +1,6 @@
+#
+# fips-cglm
+#
+---
+exports:
+  header-dirs: [ cglm/include ]
