@@ -4,3 +4,5 @@
 ---
 exports:
   header-dirs: [ cglm/include ]
+  defines:
+    CGLM_USE_ANONYMOUS_STRUCT: 1
